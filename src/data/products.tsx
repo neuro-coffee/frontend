@@ -49,7 +49,7 @@ export type Product = {
         { title: "Цена", value: "540₽" }
       ]
     },
-  
+
     // Сладкие завтраки
     {
       id: "porridge",
@@ -90,7 +90,7 @@ export type Product = {
         { title: "Цена", value: "590₽" }
       ]
     },
-  
+
     // Десерты
     {
       id: "cinnabon",
@@ -131,7 +131,7 @@ export type Product = {
         { title: "Цена", value: "290₽" }
       ]
     },
-  
+
     // Напитки
     {
       id: "espresso",
@@ -237,7 +237,7 @@ export type Product = {
         { title: "Цена", value: "310₽" }
       ]
     },
-  
+
     // Special Меню
     {
       id: "lavandCoffee",
@@ -292,4 +292,3 @@ export type Product = {
       ]
     }
   ];
-  
